@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:36.390051
+#+DATE: 2015-08-30 20:12:37.791542
 #+TITLE: 有德女所問大乘經
 #+PROPERTY: CBETA_ID T14n0568
 #+PROPERTY: ID KR6i0200
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 568
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0200_T_000-0940c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0200_T_001-0940c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.568[No.567]¶
-
- 有德女所問大乘經¶
+No. 568 [No. 567]¶
+有德女所問大乘經¶
 ¶
 唐南天竺國三藏菩提流志奉詔譯¶
 
@@ -117,7 +116,7 @@ No.568[No.567]¶
 爾時，世尊怡然微笑，從於口中放種種光，其
 <pb:KR6i0200_T_001-0941c>¶
 光朗曜具含眾色，遍至十方無量世界，一一¶
-世界靡不充滿，還來佛所，右遶三匝，從佛頂¶
+世尊靡不充滿，還來佛所，右遶三匝，從佛頂¶
 入。
 
 爾時，阿逸多菩薩摩訶薩白佛言：「世尊！¶
