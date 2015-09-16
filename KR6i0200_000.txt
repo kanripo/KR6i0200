@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 有德女所問大乘經
+#+DATE: 2015-08-30 20:12:36.612533
+#+PROPERTY: JUAN 0
