@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:37.791542
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:53
 #+TITLE: 有德女所問大乘經
 #+PROPERTY: CBETA_ID T14n0568
 #+PROPERTY: ID KR6i0200
