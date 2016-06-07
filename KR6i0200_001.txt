@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 8:52
+#+DATE: 2016-06-08 8:53
 #+TITLE: 有德女所問大乘經
 #+PROPERTY: CBETA_ID T14n0568
 #+PROPERTY: ID KR6i0200
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 568
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0200_T_000-0940c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0200_T_001-0940c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
